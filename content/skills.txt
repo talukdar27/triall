@@ -1,0 +1,27 @@
+Job Title: Junior Software Engineer (Computer Science)
+
+Location: Hyderabad, India | Full-Time | Hybrid
+
+About the Role:
+We are looking for a passionate and motivated Junior Software Engineer to join our team at Google. You will work on building scalable, reliable, and efficient software that impacts millions of users worldwide. This is an excellent opportunity for early-career engineers to learn, grow, and contribute to real-world projects alongside experienced engineers.
+
+Responsibilities:
+- Develop, test, and maintain software applications and services.
+- Collaborate with cross-functional teams including Product, Design, and other Engineering teams.
+- Participate in code reviews and ensure adherence to best coding practices.
+- Troubleshoot, debug, and optimize performance of existing systems.
+- Learn and apply new technologies to solve complex problems efficiently.
+
+Minimum Qualifications:
+- Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+- Strong understanding of data structures, algorithms, and computer science fundamentals.
+- Experience with at least five programming language (e.g., Python, Java, C++).
+- Good problem-solving skills and attention to detail.
+
+Preferred Qualifications:
+- Internship or project experience in software development.
+- Familiarity with web technologies, cloud computing, or databases.
+- Excellent communication and teamwork skills.
+- Enthusiasm for learning and contributing to open-source projects is a plus.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or veteran status.

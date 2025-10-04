@@ -1,0 +1,155 @@
+===========================
+COMPANY POLICIES
+===========================
+
+1. CODE OF CONDUCT
+---------------------------
+- Employees are expected to act professionally, ethically, and respectfully toward colleagues, clients, and partners at all times.
+- Discrimination, harassment, or bullying of any kind — including verbal, physical, or digital — will not be tolerated.
+- Confidentiality of company and client information must be maintained at all times.
+- Employees should refrain from spreading rumors, defamation, or unverified information that may harm the company or individuals.
+- The company promotes inclusivity and expects employees to foster a supportive workplace culture.
+
+2. WORKING HOURS AND ATTENDANCE
+---------------------------
+- Standard working hours are **Monday to Friday, 9:00 AM to 6:00 PM** with a one-hour lunch break.
+- Employees are required to clock in via the company attendance system daily.
+- Flexible or remote working arrangements may be approved by management based on project requirements.
+- Overtime work requires prior approval from the reporting manager.
+- Persistent lateness or absenteeism may affect performance evaluations.
+
+3. LEAVE POLICY
+---------------------------
+- Employees are entitled to:
+  - **Annual Leave**: 18 days per calendar year.
+  - **Sick Leave**: 10 days per year, with a valid medical certificate if exceeding 2 days.
+  - **Casual Leave**: 7 days per year.
+  - **Maternity Leave**: 26 weeks (as per the Maternity Benefit Act).
+  - **Paternity Leave**: 10 days.
+  - **Bereavement Leave**: Up to 5 days.
+- Unused annual leaves can be carried forward up to 10 days.
+- Leave requests must be submitted through the company HR system and approved by a supervisor.
+- Unauthorized absences for more than 3 consecutive days will be treated as leave without pay.
+
+4. USE OF COMPANY RESOURCES
+---------------------------
+- Company equipment, software, and internet access are intended for business purposes only.
+- Unauthorized sharing, copying, or downloading of proprietary materials is prohibited.
+- Employees should not install unapproved software or external storage devices on company systems.
+- Personal use of company resources should be minimal and must not interfere with work.
+- Misuse of company resources may result in disciplinary action.
+
+5. DATA SECURITY AND PRIVACY
+---------------------------
+- Employees must comply with the company’s Data Protection Policy at all times.
+- Strong passwords (minimum 12 characters) must be used and updated every 90 days.
+- Passwords must never be shared or written down in unsecured locations.
+- Confidential data should be stored only on approved company platforms.
+- Employees must log off or lock their workstations when away from their desks.
+- Any suspected security breach or phishing attempt must be reported to the IT department within 1 hour.
+- Personal cloud storage services (Google Drive, Dropbox, etc.) must not be used for company files.
+
+6. HEALTH AND SAFETY
+---------------------------
+- The company is committed to providing a safe, clean, and healthy work environment.
+- Employees must comply with all workplace safety rules and procedures.
+- Fire drills and emergency evacuation drills will be conducted twice annually.
+- Report any unsafe conditions or incidents to your supervisor or the HR department immediately.
+- Smoking and vaping are strictly prohibited inside office premises.
+- Participation in mandatory safety and first-aid training sessions is required.
+- Employees must adhere to COVID-19 or any other public health guidelines as notified by management.
+
+7. CONFLICT OF INTEREST
+---------------------------
+- Employees must avoid situations where personal, financial, or other interests conflict with company interests.
+- Any potential conflicts must be disclosed to management promptly.
+- Accepting gifts, bribes, or favors from vendors or clients is prohibited.
+- Outside employment or freelance work must be declared and approved if it overlaps with company projects.
+- Insider trading or misuse of confidential company data is strictly forbidden and punishable by law.
+
+8. PERFORMANCE AND PROFESSIONAL DEVELOPMENT
+---------------------------
+- Regular performance reviews will be conducted twice a year (June and December).
+- Employees are encouraged to pursue professional certifications and continuous learning.
+- The company provides an annual Learning & Development budget for eligible employees.
+- Managers should provide constructive feedback to foster professional growth.
+- High-performing employees may be recognized with bonuses or awards.
+
+9. DISCIPLINARY ACTIONS
+---------------------------
+- Violations of company policies may result in verbal or written warnings, suspension, or termination.
+- Serious breaches — including harassment, theft, fraud, or misuse of data — may lead to immediate termination.
+- Repeated minor offenses may also result in stricter disciplinary measures.
+- Employees have the right to appeal disciplinary actions to the HR committee.
+
+10. REMOTE WORK AND HYBRID POLICY
+---------------------------
+- Remote work is permitted up to **2 days per week** with prior approval.
+- Employees must ensure a safe and distraction-free workspace at home.
+- Company laptops and VPN access must be used for all official tasks.
+- Remote workers must remain reachable via email and company chat tools during working hours.
+- The company reserves the right to revoke remote privileges if productivity declines.
+
+11. IT AND CYBERSECURITY POLICY
+---------------------------
+- All company systems are monitored for security and compliance.
+- Only company-approved devices and accounts are to be used for work.
+- Employees should not share internal documents with third parties unless authorized.
+- Phishing awareness and cybersecurity training are mandatory every 6 months.
+- Data must be backed up weekly to the secure company cloud environment.
+
+12. EXPENSES AND REIMBURSEMENTS
+---------------------------
+- Employees may claim business-related expenses such as travel, accommodation, and project materials.
+- Expense claims must be supported by valid receipts and submitted within 15 days.
+- Claims above ₹20,000 require manager and finance team approval.
+- Misrepresentation of expenses will be treated as fraud.
+
+13. PROMOTIONS AND APPRAISALS
+---------------------------
+- Promotions are based on merit, skills, and performance reviews.
+- Appraisals are conducted annually, taking into account:
+  - Quality of work
+  - Team contribution
+  - Innovation
+  - Client feedback
+- Performance improvement plans (PIPs) may be initiated for underperforming employees.
+
+14. EXIT POLICY
+---------------------------
+- Employees must provide a **60-day notice** before resignation.
+- All company property (ID cards, laptops, access badges) must be returned on the last working day.
+- Final settlement (salary, leave encashment, reimbursements) will be processed within 45 days.
+- Exit interviews are mandatory for continuous improvement feedback.
+- Employees are expected to maintain confidentiality even after leaving the company.
+
+15. DIVERSITY AND INCLUSION
+---------------------------
+- The company is committed to a diverse, equitable, and inclusive workplace.
+- Hiring and promotions are based solely on merit and performance.
+- Discrimination or bias of any kind will not be tolerated.
+- All employees are encouraged to participate in inclusivity and sensitivity workshops.
+
+16. SOCIAL MEDIA AND PUBLIC COMMUNICATION
+---------------------------
+- Employees must not share confidential company information on social media.
+- Public comments representing the company require prior approval from the communications team.
+- Personal opinions expressed online must include a disclaimer (e.g., “views are my own”).
+- Negative comments about the company, colleagues, or clients on public platforms are prohibited.
+
+17. USE OF AI AND AUTOMATION TOOLS
+---------------------------
+- AI and automation tools may only be used for approved work purposes.
+- Employees must not input confidential data into public AI systems.
+- All AI-generated content must be reviewed and verified by a human before publication or submission.
+
+18. ACKNOWLEDGMENT AND COMPLIANCE
+---------------------------
+- All employees must read, understand, and acknowledge these policies in writing.
+- Violation of any section may lead to disciplinary action.
+- Policy updates will be communicated via official email or HR portal.
+- Ignorance of the policy will not be accepted as an excuse for violation.
+
+===========================
+END OF DOCUMENT
+===========================
