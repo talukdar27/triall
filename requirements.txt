@@ -1,8 +1,18 @@
+# Core NLP
 spacy==3.7.0
+numpy==1.26.4  # pinned to match spacy pre-built wheels
+
+# Document handling
 pdfplumber==0.10.0
 python-docx==0.8.11
+
+# Streamlit UI
+streamlit==1.26.0
+
+# Langchain / AI tools (optional, only if supported on Streamlit Cloud)
 langchain==0.1.0
 langchain-google-genai==0.0.1
 langgraph==0.1.0
+
+# Data validation
 pydantic==1.10.12
-streamlit==1.26.0
